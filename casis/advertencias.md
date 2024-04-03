@@ -11,7 +11,7 @@ Para los propósitos de este descargo:
 **Compañía** (referida como "la Compañía", "Nosotros", "Nos" o "Nuestro" en este documento) se refiere al Cuestionario de Evaluación de Riesgo de CASIS.
 Servicio hace referencia al sitio web.
 **Usted** es la persona que accede al Servicio, o la entidad legal en nombre de la cual dicha persona accede o usa el Servicio, según corresponda.
-**Sitio Web** se refiere a Cuestionario de Evaluación de Riesgo de CASIS, accesible desde https://casis-2.streamlit.app/.
+**Sitio Web** se refiere a Cuestionario de Evaluación de Riesgo de CASIS, accesible desde https://casis-app.streamlit.app/.
 
 ## Descargo de Responsabilidad General
 La información contenida en el Servicio es solo para fines de información general y no pretende ser un sustituto de consejo médico profesional, diagnóstico o tratamiento. Busque siempre el consejo de su médico u otro proveedor de salud calificado con cualquier pregunta que pueda tener respecto a una condición médica.
