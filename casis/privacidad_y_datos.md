@@ -33,5 +33,5 @@ Nos reservamos el derecho de modificar esta política de privacidad en cualquier
 
 8. Contacto
 Si tienes preguntas o preocupaciones sobre nuestra política de privacidad o prácticas de datos, por favor contáctanos a [tu información de contacto].
-![image](https://github.com/jserrataylor/pages/assets/24650279/5901f29c-7084-409f-9c1a-a2965583f7d4)
+![image]()
 
