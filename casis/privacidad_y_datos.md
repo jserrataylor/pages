@@ -31,7 +31,11 @@ Para ejercer estos derechos, por favor contáctanos a [tu información de contac
 7. Cambios a Nuestra Política de Privacidad
 Nos reservamos el derecho de modificar esta política de privacidad en cualquier momento. Si hacemos cambios, te lo notificaremos publicando la política actualizada en nuestro sitio web y/o informándote por otros medios.
 
-8. Contacto
+8. Niños
+Esta aplicación no está diseñada para niños(as) menores de 18 años, y no recopilamos intencionadamente información personal de niños(as). Si descubres que tu hijo nos ha proporcionado información personal sin tu consentimiento, puedes contactarnos mediante las opciones proporcionadas más adelante. Actuaremos rápidamente para eliminar dicha información.
+
+9. Contacto
 Si tienes preguntas o preocupaciones sobre nuestra política de privacidad o prácticas de datos, por favor contáctanos a [tu información de contacto].
 ![image]()
+
 
