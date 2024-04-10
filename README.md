@@ -1,4 +1,4 @@
-# Descargo de Responsabilidad y Advertencias de Uso
+# Relevo de Responsabilidad y Advertencias de Uso
 Última actualización: 02 de abril de 2024
 
 ## Interpretación y Definiciones
