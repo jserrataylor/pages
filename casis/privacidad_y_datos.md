@@ -3,7 +3,7 @@ Borrador de la Política de Privacidad y Protección de Datos
 Última actualización: 02 de abril de 2024
 
 1. Introducción
-En Proyecto DBT-UPR / Mental Health Screening, comprendemos la importancia de la privacidad de nuestros usuarios y estamos comprometidos con la protección de sus datos personales. Esta política de privacidad tiene como objetivo informarte sobre cómo recopilamos, usamos, protegemos y, en ciertas circunstancias, compartimos tus datos de usos e interacción con la aplicación cuando utilizas la misma.
+En [Proyecto DBT-UPR / Mental Health Screening], comprendemos la importancia de la privacidad de nuestros usuarios y estamos comprometidos con la protección de sus datos personales. Esta política de privacidad tiene como objetivo informarte sobre cómo recopilamos, usamos, protegemos y, en ciertas circunstancias, compartimos tus datos de usos e interacción con la aplicación cuando utilizas la misma.
 
 2. Recopilación de Datos
 Recopilamos información que nos proporcionas directamente al utilizar nuestro servicio, incluyendo, pero no limitándose a:
@@ -27,7 +27,7 @@ No compartimos tus datos personales con terceros, excepto como se describe en es
 Tienes derecho a:
 -	Acceder, corregir o eliminar cualquier dato personal que tengamos sobre ti en cualquier momento.
 -	Retirar tu consentimiento para el procesamiento de tus datos personales.
-Para ejercer estos derechos, por favor contáctanos a mhs.rp@upr.edu.
+Para ejercer estos derechos, por favor contáctanos a [mhs.rp@upr.edu].
 
 7. Cambios a Nuestra Política de Privacidad
 Nos reservamos el derecho de modificar esta política de privacidad en cualquier momento. Si hacemos cambios, te lo notificaremos publicando la política actualizada en nuestro sitio web y/o informándote por otros medios.
