@@ -1,4 +1,4 @@
-# Política de Privacidad y Protección de Datos
+# Borrador de la Política de Privacidad y Protección de Datos
 ### Última actualización: 02 de abril de 2024
 
 1. Introducción
@@ -6,15 +6,15 @@ En [Proyecto DBT-UPR / Mental Health Screening], comprendemos la importancia de 
 
 2. Recopilación de Datos
 Recopilamos información que nos proporcionas directamente al utilizar nuestro servicio, incluyendo, pero no limitándose a:
-•	Respuestas a cuestionarios o encuestas.
-•	Información de contacto en caso de que decidas proporcionarla, como tu correo electrónico.
-•	Cualquier otro dato que elijas compartir a través de nuestra plataforma.
+-	Respuestas a cuestionarios o encuestas.
+-	Información de contacto en caso de que decidas proporcionarla, como tu correo electrónico.
+-	Cualquier otro dato que elijas compartir a través de nuestra plataforma.
 
 3. Uso de los Datos
 Utilizamos tus datos para:
-•	Proporcionarte evaluaciones o resultados basados en las respuestas que proporcionas en nuestros cuestionarios.
-•	Mejorar la calidad de nuestros servicios y desarrollar nuevos productos.
-•	[Cualquier otro propósito relevante para tu proyecto].
+-	Proporcionarte evaluaciones o resultados basados en las respuestas que proporcionas en nuestros cuestionarios.
+-	Mejorar la calidad de nuestros servicios y desarrollar nuevos productos.
+-	No almacenamos datos personales ni identificables después de finalizar la sesión, solo se almacenan datos del uso de la aplicación y las interacciones con la misma.
 
 4. Protección de Datos
 Implementamos medidas de seguridad técnicas y organizativas para proteger tus datos contra el acceso no autorizado, la alteración, la divulgación o la destrucción. Limitamos el acceso a tus datos personales a aquellos empleados, contratistas y agentes que necesitan conocer esa información para procesarla en nuestro nombre y que están sujetos a estrictas obligaciones de confidencialidad.
@@ -24,19 +24,18 @@ No compartimos tus datos personales con terceros, excepto como se describe en es
 
 6. Tus Derechos
 Tienes derecho a:
-•	Acceder, corregir o eliminar cualquier dato personal que tengamos sobre ti en cualquier momento.
-•	Retirar tu consentimiento para el procesamiento de tus datos personales.
-•	[Cualquier otro derecho relevante en tu jurisdicción].
-Para ejercer estos derechos, por favor contáctanos a [tu información de contacto].
+-	Acceder, corregir o eliminar cualquier dato personal que tengamos sobre ti en cualquier momento.
+-	Retirar tu consentimiento para el procesamiento de tus datos personales.
+-	[Cualquier otro derecho relevante en tu jurisdicción].
+Para ejercer estos derechos, por favor contáctanos a mhs.rp@upr.edu.
 
 7. Cambios a Nuestra Política de Privacidad
 Nos reservamos el derecho de modificar esta política de privacidad en cualquier momento. Si hacemos cambios, te lo notificaremos publicando la política actualizada en nuestro sitio web y/o informándote por otros medios.
 
-8. Niños
-Esta aplicación no está diseñada para niños(as) menores de 18 años, y no recopilamos intencionadamente información personal de niños(as). Si descubres que tu hijo nos ha proporcionado información personal sin tu consentimiento, puedes contactarnos mediante las opciones proporcionadas más adelante. Actuaremos rápidamente para eliminar dicha información.
+8. Menos de 18 años
+Esta aplicación no está diseñada para menores de 18 años, y no recopilamos intencionadamente información personal de menos de 18 años de edad. Si descubres que tu hijo(a) nos ha proporcionado información personal sin tu consentimiento, puedes contactarnos mediante las opciones proporcionadas más adelante. Actuaremos rápidamente para eliminar dicha información.
 
 9. Contacto
-Si tienes preguntas o preocupaciones sobre nuestra política de privacidad o prácticas de datos, por favor contáctanos a [tu información de contacto].
-![image]()
+Si tienes preguntas o preocupaciones sobre nuestra política de privacidad o prácticas de datos, por favor contáctanos a [mhs.rp@upr.edu].
 
 
