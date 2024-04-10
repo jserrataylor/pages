@@ -1,4 +1,5 @@
 # Política de Privacidad y Protección de Datos
+### Última actualización: 02 de abril de 2024
 
 1. Introducción
 En [Nombre de tu Empresa o Proyecto], comprendemos la importancia de la privacidad de nuestros usuarios y estamos comprometidos con la protección de sus datos personales. Esta política de privacidad tiene como objetivo informarte sobre cómo recopilamos, usamos, protegemos y, en ciertas circunstancias, compartimos tus datos personales cuando utilizas nuestro [nombre de la aplicación, sitio web, etc.].
