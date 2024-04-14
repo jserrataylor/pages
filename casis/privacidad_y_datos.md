@@ -27,7 +27,7 @@ No compartimos tus datos personales con terceros, excepto como se describe en es
 Tienes derecho a:
 -	Acceder, corregir o eliminar cualquier dato personal que tengamos sobre ti en cualquier momento.
 -	Retirar tu consentimiento para el procesamiento de tus datos personales.
-Para ejercer estos derechos, por favor contáctanos a [mhs.rp@upr.edu].
+Para ejercer estos derechos, por favor contáctanos a [mhs.rrp@upr.edu].
 
 7. Cambios a Nuestra Política de Privacidad
 Nos reservamos el derecho de modificar esta política de privacidad en cualquier momento. Si hacemos cambios, te lo notificaremos publicando la política actualizada en nuestro sitio web y/o informándote por otros medios.
@@ -36,6 +36,6 @@ Nos reservamos el derecho de modificar esta política de privacidad en cualquier
 Esta aplicación no está diseñada para menores de 18 años, y no recopilamos intencionadamente información personal de menos de 18 años de edad. Si descubres que tu hijo(a) nos ha proporcionado información personal sin tu consentimiento, puedes contactarnos mediante las opciones proporcionadas más adelante. Actuaremos rápidamente para eliminar dicha información.
 
 9. Contacto
-Si tienes preguntas o preocupaciones sobre nuestra política de privacidad o prácticas de datos, por favor contáctanos a [mhs.rp@upr.edu].
+Si tienes preguntas o preocupaciones sobre nuestra política de privacidad o prácticas de datos, por favor contáctanos a [mhs.rrp@upr.edu].
 
 
