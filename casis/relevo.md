@@ -25,4 +25,4 @@ El Servicio se enfoca en proporcionar un cuestionario de evaluación de riesgo r
 El Servicio puede contener enlaces a sitios web externos que no son proporcionados ni mantenidos por la Compañía. Tenga en cuenta que la Compañía no garantiza la exactitud, relevancia, actualidad o completitud de cualquier información en esos sitios web externos.
 
 ## Contacto
-Si tiene preguntas sobre este descargo de responsabilidad, puede contactarnos por correo electrónico: jose.serra@upr.edu.
+Si tiene preguntas sobre este descargo de responsabilidad, puede contactarnos por correo electrónico: mhs.rrp@upr.edu.
