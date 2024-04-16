@@ -13,7 +13,7 @@ Contact information if you choose to provide it, such as your email.
 Any other data you choose to share through our platform.
 Data Usage
 
-## We use your data to:
+### We use your data to:
 Provide you with assessments or results based on the responses you provide in our questionnaires.
 Improve the quality of our services and develop new products.
 We do not store personal or identifiable data after the session ends, only data regarding the use of the application and interactions with it are stored.
@@ -25,7 +25,7 @@ We implement technical and organizational security measures to protect your data
 We do not share your personal data with third parties, except as described in this policy or when we have informed you and obtained your consent.
 
 ## Your Rights
-You have the right to:
+### You have the right to:
 
 Access, correct, or delete any personal data we have about you at any time.
 Withdraw your consent for the processing of your personal data.
