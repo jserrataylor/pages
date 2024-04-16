@@ -3,7 +3,7 @@
 Last update: April 2, 2024
 
 ## 1. Introduction
-At [DBT-UPR Project / Mental Health Screening], we understand the importance of our users' privacy and are committed to protecting their personal data. This privacy policy aims to inform you about how we collect, use, protect, and, under certain circumstances, share your usage data and interactions with the application when you use it.
+At **DBT-UPR Project**, we understand the importance of our users' privacy and are committed to protecting their personal data. This privacy policy aims to inform you about how we collect, use, protect, and, under certain circumstances, share your usage data and interactions with the application when you use it.
 
 ## 2. Data Collection
 We collect information that you provide directly when using our service, including, but not limited to:
