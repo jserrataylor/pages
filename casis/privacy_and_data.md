@@ -1,14 +1,14 @@
-Privacy Policy and Data Protection Draft
+# Privacy Policy and Data Protection Draft
 
 Last update: April 2, 2024
 
-Introduction
+## Introduction
 At [DBT-UPR Project / Mental Health Screening], we understand the importance of our users' privacy and are committed to protecting their personal data. This privacy policy aims to inform you about how we collect, use, protect, and, under certain circumstances, share your usage data and interactions with the application when you use it.
 
-Data Collection
+## Data Collection
 We collect information that you provide directly when using our service, including, but not limited to:
 
-Responses to questionnaires or surveys.
+## Responses to questionnaires or surveys.
 Contact information if you choose to provide it, such as your email.
 Any other data you choose to share through our platform.
 Data Usage
